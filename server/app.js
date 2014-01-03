@@ -1,0 +1,1 @@
+Wards = new Meteor.Collection("wards");
